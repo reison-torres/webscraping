@@ -41,6 +41,8 @@ Estos datos son publicados diariamente paro los días hábiles de L-V.
 
 ## Agradecimientos
 
+Los datos han sido recolectados desde la base de datos online [AppCoraPrecios](https://www.corabastos.com.co/sitio/historicoApp2/reportes/prueba.php). Para ello, se ha hecho uso del lenguaje de programación Python y de técnicas de *Web Scraping* para extraer la información alojada en las páginas HTML.
+
 ## Inspiración
 
 ## Licencia
