@@ -54,18 +54,18 @@ También podría ser de gran utilidad en el campo de la *Agricultura*, para info
 
 Para la publicación de este conjunto de datos se seleccionó la licencia **CC BY-SA 4.0 License**. Los motivos por los cual se selecciono esta licencia son:
 
-* *_Los trabajos derivadas del conjunto de datos generado, su distribución se debe hacer con una licencia igual a la que regula el trabajo original_*. Con esto garantizamos que los trabajos derivados del trabajo original, seguirán distribuyéndose bajo los mismo términos que el autor original planteo.
+* _Los trabajos derivadas del conjunto de datos generado, su distribución se debe hacer con una licencia igual a la que regula el trabajo original_. Con esto garantizamos que los trabajos derivados del trabajo original, seguirán distribuyéndose bajo los mismo términos que el autor original planteo.
 
-* *_Se debe dar crédito de manera adecuada al creador del conjunto de datos generado, e indicar si se han realizado cambios_*. De esta manera damos crédito del trabajo del autor original, y mantenemos una transparencia en la medida que se indican las aportaciones/cambios realizados al trabajo original.
+* _Se debe dar crédito de manera adecuada al creador del conjunto de datos generado, e indicar si se han realizado cambios_. De esta manera damos crédito del trabajo del autor original, y mantenemos una transparencia en la medida que se indican las aportaciones/cambios realizados al trabajo original.
 
-* *_Explotación de los datos generados, incluyendo una finalidad comercial_*. Con esto garantizamos que la utilización de los datos generados, no serán de uso privativo, dando la posibilidad que otras empresas utilicen los datos generados y realicen trabajos de calidad que mantenga su competitividad en el mercado.
+* _Explotación de los datos generados, incluyendo una finalidad comercial_. Con esto garantizamos que la utilización de los datos generados, no serán de uso privativo, dando la posibilidad que otras empresas utilicen los datos generados y realicen trabajos de calidad que mantenga su competitividad en el mercado.
 
 
 ## Código fuente y dataset
 
 ## Recursos
 
-Creative Commons. (2016). "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)". Creative Commons public licenses [artículo en línea]. [Fecha de consulta: 22 de octubre del 2019]. <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
+Creative Commons. (2016). "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)". Creative Commons public licenses [artículo en línea]. [Fecha de consulta: 22 de octubre del 2019]. <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
 
 
 
