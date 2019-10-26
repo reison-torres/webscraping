@@ -33,10 +33,10 @@ La base datos de productos y precios que se comercializan a diario al consumidor
 3. **Presentación**: Presentaciones de venta en la que viene el producto. (Texto). 
 4. **Cantidad**: Número de unidades que vienen por presentación. (Numérico).  
 5. **Unidad**: Unidad de medida en la que se vende el producto. (Texto).  
-7. **Cal_Extra**: Precio máximo de venta. (Numérico).  
-8. **Cal_Primera**: Precio mínimo de venta. (Numérico).  
-9. **Valor**: Precio de venta. (Numérico).  
-10. **Fecha_publicacion**: Fecha de publicacion del precio del producto. (Fecha).  
+6. **Cal_Extra**: Precio máximo de venta. (Numérico).  
+7. **Cal_Primera**: Precio mínimo de venta. (Numérico).  
+8. **Valor**: Precio de venta. (Numérico).  
+9. **Fecha_publicacion**: Fecha de publicacion del precio del producto. (Fecha).  
 
 Estos datos son publicados diariamente paro los días hábiles de L-V.
 
