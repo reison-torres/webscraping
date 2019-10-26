@@ -36,6 +36,7 @@ La base datos de productos y precios que se comercializan a diario al consumidor
 7. **Cal_Extra**: Precio máximo de venta. (Numérico).  
 8. **Cal_Primera**: Precio mínimo de venta. (Numérico).  
 9. **Valor**: Precio de venta. (Numérico).  
+10. **Fecha_publicacion**: Fecha de publicacion del precio del producto. (Fecha).  
 
 Estos datos son publicados diariamente paro los días hábiles de L-V.
 
