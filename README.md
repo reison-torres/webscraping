@@ -38,13 +38,17 @@ La base datos de productos y precios que se comercializan a diario al consumidor
 8. **Valor**: Precio de venta. (Numérico).  
 9. **Fecha_publicacion**: Fecha de publicacion del precio del producto. (Fecha).  
 
-Estos datos son publicados diariamente paro los días hábiles de L-V.
+Estos datos son publicados diariamente solo en los días hábiles de L-V.
 
 ## Agradecimientos
 
 Los datos han sido recolectados desde la base de datos online [AppCoraPrecios](https://www.corabastos.com.co/sitio/historicoApp2/reportes/prueba.php). Para ello, se ha hecho uso del lenguaje de programación Python y de técnicas de *Web Scraping* para extraer la información alojada en las páginas HTML.
 
 ## Inspiración
+
+El presente conjunto de datos podría utilizarse en el ámbito comercial, donde se podría elaborar modelos predictivos, que nos ayuden a predecir el precio del producto en el futuro, y con esto poder preparar estrategias de markiting.
+
+También podría ser de gran utilidad en el campo de la *Agricultura*, para informar al pequeño productor de las temporadas de mayor de manda de sus productos en el mercado nacional, para que puedan preparar sus cosechas para suplir esta demanda.
 
 ## Licencia
 
