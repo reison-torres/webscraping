@@ -15,10 +15,10 @@ La actividad ha sido realizada de manera individual por:
 
 ## Ficheros del código fuente
 
-* [src/foodPriceCorabasto.py](): Script Python, que realiza el proceso de scraping.
-* [src/foodPriceCorabasto.ipynb](): Proyecto Jupyter Notebook, con el codigo Python.
-* [data](): Directorio donde se encuentra los archivos de datos en formato CSV.
-* [pdf](): Directorio donde se encuentra el documento con las respuestas en formato PDF.
+* [src/foodPriceCorabasto.py](https://github.com/reison-torres/webscraping/tree/master/src/foodPriceCorabasto.py): Script Python, que realiza el proceso de scraping.
+* [src/foodPriceCorabasto.ipynb](https://github.com/reison-torres/webscraping/tree/master/src/foodPriceCorabasto.ipynb): Proyecto Jupyter Notebook, con el codigo Python.
+* [data](https://github.com/reison-torres/webscraping/tree/master/data): Directorio donde se encuentra los dataset en formato CSV.
+* [pdf](https://github.com/reison-torres/webscraping/tree/master/pdf/respuestas.pdf): Directorio donde se encuentra el documento con las respuestas en formato PDF.
 
 
 ## Recursos
