@@ -12,20 +12,12 @@ Con el fin de llevar a cabo esta actividad de Web Scraping, se seleccionó el si
 La actividad ha sido realizada de manera individual por:
 * **Reison Arturo Torres Urina**.
 
-## Ficheros del código fuente
+## Descripción de Ficheros
 
-<<<<<<< HEAD
 * __[src/foodPriceCorabasto.py](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.py)__: Script Python, que realiza el proceso de scraping.
 * __[src/foodPriceCorabasto.ipynb](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.ipynb)__: Proyecto Jupyter Notebook, con el codigo Python.
 * __[data/](https://github.com/reison-torres/webscraping/tree/master/data)__: En este directorio se encuentra los dataset en formato CSV.
 * __[pdf/](https://github.com/reison-torres/webscraping/tree/master/pdf/)__: En este directorio encontramos el documento con las respuestas de la PRA1. Este documento se encuentra en los formatos __[PDF](https://github.com/reison-torres/webscraping/tree/master/pdf/respuestas.pdf)__, __[HTML](https://github.com/reison-torres/webscraping/tree/master/pdf/respuestas.html)__ y __[Markdwon](https://github.com/reison-torres/webscraping/tree/master/pdf/respuestas.md)__.
-=======
-* [src/foodPriceCorabasto.py](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.py): Script Python, que realiza el proceso de scraping.
-* [src/foodPriceCorabasto.ipynb](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.ipynb): Proyecto Jupyter Notebook, con el codigo Python.
-* [data](https://github.com/reison-torres/webscraping/tree/master/data): Directorio donde se encuentra los dataset en formato CSV.
-* [pdf](https://github.com/reison-torres/webscraping/tree/master/pdf/respuestas.md): Directorio donde se encuentra el documento con las respuestas en formato PDF.
->>>>>>> 180141368ae5f9456bc0de7e1f783653c668a80a
-
 
 # Recursos
 
