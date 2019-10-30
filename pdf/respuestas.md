@@ -1,5 +1,5 @@
 ---
-title: "Actividad: 'PRA1: Web Scraping"
+title: "Actividad: PRA1: Web Scraping"
 author: "Reison A. Torres Urina"
 date: "Octubre 2019"
 header-includes:
@@ -19,9 +19,12 @@ output:
     
 ---
 
-******
-# Introducción
-******
+# Miembros del equipo
+
+La actividad ha sido realizada de manera individual por:  
+__Reison Arturo Torres Urina__.
+
+# Actividad
 
 El objetivo de esta actividad será la creación de un dataset a partir de los datos contenidos en una web, aplicando las tecnicas de Web Scraping.
 
@@ -35,17 +38,17 @@ __Título DataSet__: Productos y precios de comercialización, dirigidos al cons
 
 __Descripción__: Este conjunto de datos contiene el listado de productos y precios que se comercializan diariamente en los puntos de venta de las diferentes Bodegas de la corporación CORABASTOS y dichos precios están dirigido al consumidor.
 
-## Imagen identificativa
+## Imagen identificativa  
 
-![Productos y precios de comercialización, dirigidos al consumidor.](./img/foodprice.png)
+![](./img/foodprice.png){width=60} <br/> 
 
 ## Contenido
 
-La base datos de productos y precios que se comercializan a diario al consumidor, publicados por la entidad CORABASTOS, está constituido por variables numéricas y de textos. A continuación daremos una pequeña descripción, acerca de lo que representa, cada una de las variables, que se encuentra en este conjunto de datos.
+La base datos de productos y precios que se comercializan a diario al consumidor, publicados por la entidad CORABASTOS, está constituido por variables numéricas y de textos. A continuación daremos una pequeña descripción, acerca de lo que representa, cada una de las variables, que se encuentra en este conjunto de datos.  
 
-1. **Grupo**: Nombre del grupo al que pertenece un producto (HORTALIZAS, FRUTAS, TUBERCULOS, PLATANOS, GRANOS Y PROCESADOS, LACTEOS, CARNICOS y HUEVOS)  . (Texto). 
-2. **Nombre**: Nombre o descripción del producto. (Texto). 
-3. **Presentación**: Presentaciones de venta en la que viene el producto. (Texto). 
+1. **Grupo**: Nombre del grupo al que pertenece un producto (HORTALIZAS, FRUTAS, TUBERCULOS, PLATANOS, GRANOS Y PROCESADOS, LACTEOS, CARNICOS y HUEVOS)  . (Texto).  
+2. **Nombre**: Nombre o descripción del producto. (Texto).   
+3. **Presentación**: Presentaciones de venta en la que viene el producto. (Texto).  
 4. **Cantidad**: Número de unidades que vienen por presentación. (Numérico).  
 5. **Unidad**: Unidad de medida en la que se vende el producto. (Texto).  
 6. **Cal_Extra**: Precio máximo de venta. (Numérico).  
@@ -78,22 +81,16 @@ Para la publicación de este conjunto de datos se seleccionó la licencia **CC B
 
 ## Código fuente y dataset
 
-* [src/foodPriceCorabasto.py](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.py): Script Python, que realiza el proceso de scraping.
-* [src/foodPriceCorabasto.ipynb](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.ipynb): Proyecto Jupyter Notebook, con el codigo Python.
-* [data](https://github.com/reison-torres/webscraping/tree/master/data): Directorio donde se encuentra los dataset en formato CSV.
-* [pdf](https://github.com/reison-torres/webscraping/tree/master/pdf/respuestas.pdf): Directorio donde se encuentra el documento con las respuestas en formato PDF.
+* En la siguiente ruta (**[src/foodPriceCorabasto.py](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.py)**) encontraras el código Python desarrollado. 
+* En la siguiente ruta(**[src/foodPriceCorabasto.ipynb](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.ipynb)**) encontraras el código Python desarrollado en formato Jupyter Notebook.
+* En la siguiente ruta(**[data/](https://github.com/reison-torres/webscraping/tree/master/data)**) encontraras los dataset generados en formato CSV.
 
+  
+# Recursos
 
-## Recursos
-
-Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
-
-Creative Commons. (2016). "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)". Creative Commons public licenses [artículo en línea]. [Fecha de consulta: 22 de octubre del 2019]. <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
-
-Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.
-
-Masip, D. El lenguaje Python. Editorial UOC.
-
-Willems, Karlijn. (19 Marzo 2019). "Python Numpy Array Tutorial". DataCamp [artículo en línea]. [Fecha de consulta: 26 de octubre del 2019]. <https://www.datacamp.com/community/tutorials/python-numpy-tutorial#make>.
-
-Willems, Karlijn. (17 Enero 2019). "Pandas Tutorial: DataFrames in Python". DataCamp [artículo en línea]. [Fecha de consulta: 27 de octubre del 2019]. <https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#question3>.
+1. Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.  
+2. Creative Commons. (2016). "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)". Creative Commons public licenses [artículo en línea]. [Fecha de consulta: 22 de octubre del 2019]. <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.  
+3. Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.  
+4. Masip, D. El lenguaje Python. Editorial UOC.  
+5. Willems, Karlijn. (19 Marzo 2019). "Python Numpy Array Tutorial". DataCamp [artículo en línea]. [Fecha de consulta: 26 de octubre del 2019]. <https://www.datacamp.com/community/tutorials/python-numpy-tutorial#make>.  
+6. Willems, Karlijn. (17 Enero 2019). "Pandas Tutorial: DataFrames in Python". DataCamp [artículo en línea]. [Fecha de consulta: 27 de octubre del 2019].  <https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#question3>.  

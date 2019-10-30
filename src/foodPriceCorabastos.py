@@ -1,9 +1,27 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# # Prerequisitos
+# 
+# Para ejecutar el script es necesario instalar la siguientes librerias Python:
+# 
+# * pip install pandas
+# * pip install re
+# * pip install numpy
+# * pip install urllib3
+# 
+# # Ejecutar Script
+# 
+# 1. Se debe crear un directorio data en la misma ruta donde se encuentra el script.
+# 2. Ejecutar el script __\# python3 foodPriceCorabastos.py__.
+# 3. En directorio __data__ se encuentra el archivo .csv con los datos extraídos del sitio web.
+# 
+# 
+# # Código fuente
+
 # __Cargamos las librerias Phython__
 
-# In[34]:
+# In[1]:
 
 
 import urllib3 # Libreria para descargar URL
@@ -12,7 +30,7 @@ import numpy as np # Libreria para crear manipulacion de array
 import pandas as pd # Libreria para crear manipulacion de DataFrame
 
 
-# __Definicion de funciones__
+# ## Definicion de funciones
 # ********
 # 
 # 
@@ -20,7 +38,7 @@ import pandas as pd # Libreria para crear manipulacion de DataFrame
 # 
 # Funcion para descargar el sitio web
 
-# In[3]:
+# In[2]:
 
 
 # download: funcion para descargar el sitio web
@@ -53,7 +71,7 @@ def download(url,user_agent='wswp',num_retries=2):
 # 
 # Esta funcion extrae los datos del HTML, por medio de patrones utilizando expreciones regulares
 
-# In[30]:
+# In[3]:
 
 
 # extractData: extrae los datos del HTML
@@ -79,9 +97,9 @@ def extractData(html):
     return df_data
 
 
-# __Descargamos HTML del sitio web__
+# ## Descargamos HTML del sitio web
 
-# In[5]:
+# In[4]:
 
 
 url = 'https://www.corabastos.com.co/sitio/historicoApp2/reportes/prueba.php'
@@ -89,18 +107,18 @@ html = download(url)
 # print("html => ", html)
 
 
-# __Extraer los datos del HTML y Creamos el DataSet__
+# ## Extraer los datos del HTML y Creamos el DataSet
 
-# In[36]:
+# In[5]:
 
 
 df_data = extractData(html)
 df_data.head(10) # mostramos las primeras 10 filas del dataset
 
 
-# **Exportamos el DataSet a un archivo con formato CSV**
+# ## Exportamos el DataSet a un archivo con formato CSV
 
-# In[45]:
+# In[6]:
 
 
 #print(df_data.loc[0,'fecha_publicacion'])

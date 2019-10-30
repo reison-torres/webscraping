@@ -11,27 +11,22 @@ Con el fin de llevar a cabo esta actividad de Web Scraping, se seleccionó el si
 ## Miembros del equipo
 
 La actividad ha sido realizada de manera individual por:
-**Reison Arturo Torres Urina**.
+* **Reison Arturo Torres Urina**.
 
 ## Ficheros del código fuente
 
-* [src/foodPriceCorabasto.py](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.py): Script Python, que realiza el proceso de scraping.
-* [src/foodPriceCorabasto.ipynb](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.ipynb): Proyecto Jupyter Notebook, con el codigo Python.
-* [data](https://github.com/reison-torres/webscraping/tree/master/data): Directorio donde se encuentra los dataset en formato CSV.
-* [pdf](https://github.com/reison-torres/webscraping/tree/master/pdf/respuestas.pdf): Directorio donde se encuentra el documento con las respuestas en formato PDF.
+* __[src/foodPriceCorabasto.py](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.py)__: Script Python, que realiza el proceso de scraping.
+* __[src/foodPriceCorabasto.ipynb](https://github.com/reison-torres/webscraping/blob/master/src/foodPriceCorabastos.ipynb)__: Proyecto Jupyter Notebook, con el codigo Python.
+* __[data/](https://github.com/reison-torres/webscraping/tree/master/data)__: En este directorio se encuentra los dataset en formato CSV.
+* __[pdf/](https://github.com/reison-torres/webscraping/tree/master/pdf/)__: En este directorio encontramos el documento con las respuestas de la PRA1. Este documento se encuentra en los formatos __[PDF](https://github.com/reison-torres/webscraping/tree/master/pdf/respuestas.pdf)__, __[HTML](https://github.com/reison-torres/webscraping/tree/master/pdf/respuestas.html)__ y __[Markdwon](https://github.com/reison-torres/webscraping/tree/master/pdf/respuestas.md)__.
 
 
-## Recursos
+# Recursos
 
-Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
-
-Creative Commons. (2016). "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)". Creative Commons public licenses [artículo en línea]. [Fecha de consulta: 22 de octubre del 2019]. <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.
-
-Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.
-
-Masip, D. El lenguaje Python. Editorial UOC.
-
-Willems, Karlijn. (19 Marzo 2019). "Python Numpy Array Tutorial". DataCamp [artículo en línea]. [Fecha de consulta: 26 de octubre del 2019]. <https://www.datacamp.com/community/tutorials/python-numpy-tutorial#make>.
-
-Willems, Karlijn. (17 Enero 2019). "Pandas Tutorial: DataFrames in Python". DataCamp [artículo en línea]. [Fecha de consulta: 27 de octubre del 2019]. <https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#question3>.
+1. Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.  
+2. Creative Commons. (2016). "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)". Creative Commons public licenses [artículo en línea]. [Fecha de consulta: 22 de octubre del 2019]. <https://creativecommons.org/licenses/by-sa/4.0/legalcode>.  
+3. Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd.  
+4. Masip, D. El lenguaje Python. Editorial UOC.  
+5. Willems, Karlijn. (19 Marzo 2019). "Python Numpy Array Tutorial". DataCamp [artículo en línea]. [Fecha de consulta: 26 de octubre del 2019]. <https://www.datacamp.com/community/tutorials/python-numpy-tutorial#make>.  
+6. Willems, Karlijn. (17 Enero 2019). "Pandas Tutorial: DataFrames in Python". DataCamp [artículo en línea]. [Fecha de consulta: 27 de octubre del 2019].  <https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#question3>. 
 
